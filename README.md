@@ -105,6 +105,4 @@ lingxi-companion/
 - GitHub Repository：https://github.com/rainwind0408/lingxi-companion
 - 项目官网：（规划中）
 
----
 
-*本项目由江苏省大学生创新创业训练计划支持*
